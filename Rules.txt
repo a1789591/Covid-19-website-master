@@ -1,0 +1,20 @@
+We will doing our project on a1816586/2021/s1/wdc/Project-WDC
+** We all should comment on our code while coding to make sure that others could understand what you are doing in your code
+
+We already installed VNU validation in folder: Project-WDC
+We already installed Eslint validation for Javascript file.
+We created express for the server serve our webpage
+
+** Make sure that you always have a version of the lastest code in your computer as a backup.
+
+Our team should attend on both 2 workshop in a week: Tuesday (1pm-2pm) and Wednesday (1pm-2pm)
+
+Prepare for the week 9 Milestone:
++ Do research to answer question: as soon as possible, must in week 6, before week 7
++ Draw a basic website on the paper: go to GitHub, find similar project, collect them, we'll have a meeting to decide design of project:
+(before week 7)
++ Design the function in the web: how the feature will be executed in the webpage design
++ Review the design to compare the design with the specification
++ Code the basic front-end of the website
++ Design the route: what request will be sent? what response for each kind of request?
++ Design the Database Schema: what kind information? what info will be put together in a table? how can we access the info from another table
