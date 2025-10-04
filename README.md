@@ -233,27 +233,12 @@ Each user type has access to specific features and pages based on their account 
 4. **Port Already in Use**
    - Change the port in `bin/www` or kill the process using port 3000
 
-## 🤝 Contributing
+<!-- ## 🤝 Contributing
 
 This project was developed as part of a university course. For contributions:
 
 1. Follow the existing code style
 2. Add comments for complex functionality
 3. Test all changes thoroughly
-4. Update documentation as needed
+4. Update documentation as needed -->
 
-<!-- ## 📄 License
-
-This project is developed for educational purposes as part of the University of Adelaide's Web Development Course.
-
-## 👥 Team
-
-Developed by UG-Group-62 for the University of Adelaide Web Development Course (WDC) 2021 Semester 1.
-
-## 📞 Support
-
-For technical support or questions about this project, please refer to the course materials or contact the development team.
-
----
-
-**Note**: This application is designed for educational purposes and should not be used for actual COVID-19 contact tracing without proper medical and legal oversight. -->
